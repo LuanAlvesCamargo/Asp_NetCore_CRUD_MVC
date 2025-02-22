@@ -48,5 +48,5 @@ Se desejar contribuir com melhorias, fique à vontade para abrir um pull request
 Este projeto está sob a licença MIT. Sinta-se livre para usá-lo e modificá-lo conforme necessário.
 
 ---
-**Autor:** Seu Nome
+**Autor:** Luan Camargo
 
