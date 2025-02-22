@@ -16,7 +16,7 @@ Antes de executar o projeto, certifique-se de ter instalado os seguintes pacotes
 ## Como Executar
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/LuanAlvesCamargo/Asp_NetCore_CRUD_MVC.git
    ```
 2. Acesse o diretório do projeto:
    ```sh
